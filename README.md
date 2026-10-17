@@ -1,12 +1,13 @@
-can you give me all this : <div align="center">
+
+<div align="center">
+
+<img src="./banner.png" alt="Katia Merabet — AI & Medical Imaging" width="100%" />
 
 # ✦ Katia Merabet ✦
 
 ### Aspiring Research Engineer in AI & Medical Imaging
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1100&color=C4A1FF&center=true&vCenter=true&width=680&lines=Signal+%26+Image+Processing;Bioinformatics+%E2%9C%A6+Deep+Learning;Exploring+AI+for+Medical+Imaging;Curious+mind%2C+research-driven+spirit" alt="Animated introduction" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:17112B,50:60408F,100:C4A1FF&height=110&section=header&text=%E2%9C%A6%20Exploring%20the%20intersection%20of%20AI%20and%20life%20sciences%20%E2%9C%A6&fontColor=FFFFFF&fontSize=17&animation=fadeIn" alt="Purple abstract banner" width="100%" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-C4A1FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katia-merabet-0345721b2)
 [![Email](https://img.shields.io/badge/Email-Say%20hello-8064B0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:katia.merabet@etu.univ-littoral.fr)
@@ -67,4 +68,3 @@ I enjoy learning across disciplines and exploring research questions at the inte
 [LinkedIn](https://www.linkedin.com/in/katia-merabet-0345721b2) · [Email](mailto:katia.merabet@etu.univ-littoral.fr)
 
 </div>
- like withe the banner
