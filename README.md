@@ -1,4 +1,4 @@
-can you give me all this : <div align="center">
+<div align="center">
 
 # ✦ Katia Merabet ✦
 
